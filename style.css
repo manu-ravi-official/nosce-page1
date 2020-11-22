@@ -1,0 +1,45 @@
+
+.submitButton
+{
+    background-color: #88b01c;
+}
+    .introduction
+    {
+        background-color: #f55828;
+    }
+.enquiryHeading
+{
+    color: white;
+}
+.newsEvents{
+    background-color: #88b01c;
+}
+.testimonials
+{
+    background-color: #84eaf1;
+}
+.slick-slide {
+    margin: 10px
+}
+
+.slick-slide img {
+    width: 100%;
+    border: 0px solid #fff
+}
+.footer{
+    background-color: #f55828;
+}
+.socialMediaIcons
+{
+    height: 80px;
+    background-color: #88b01c;
+    font-size: 25pt;
+}
+.connectus
+{
+    font-size: 15pt;
+}
+.link
+{
+    color:rgb(34, 34, 34);
+}
